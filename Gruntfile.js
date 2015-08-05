@@ -4,9 +4,10 @@ module.exports = function(grunt) {
 
     release: {
       options: {
-        additionalFiles: ['bower.json']
-      },
-      npm: false
+        additionalFiles: ['bower.json'],
+        npm: false,
+        commitMessage: 'feat(release): release <%= version %>'
+      }
     }
 
   });
