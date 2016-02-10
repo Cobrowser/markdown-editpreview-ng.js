@@ -2,7 +2,7 @@
   "name": "markdown-editpreview-ng.js",
   "homepage": "https://github.com/Cobrowser/markdown-editpreview-ng.js",
   "description": "Cloned from github.com/codemwnci/markdown-editpreview-ng.js.git to properly use with bower install and grunt wiredep",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "main": [
     "lib/codemwnci/bootstrap-markdown.js",
     "lib/codemwnci/bootstrap-markdown.min.css",

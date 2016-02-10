@@ -1,6 +1,6 @@
 {
   "name": "markdown-editpreview-ng.js",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "description": "Cloned from github.com/codemwnci/markdown-editpreview-ng.js.git to properly use with bower install and grunt wiredep",
   "repository": {
     "type": "git",
